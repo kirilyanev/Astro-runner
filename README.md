@@ -1,3 +1,5 @@
+The game is made using the canvas boilerplate mentioned below:
+
 Canvas Boilerplate is the go-to solution for quickly creating modern canvas pieces using ES6 and webpack.
 
 ## Getting Started
