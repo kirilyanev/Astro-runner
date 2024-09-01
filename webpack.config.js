@@ -35,6 +35,7 @@ module.exports = {
       host: 'localhost',
       port: 3000,
       server: { baseDir: ['dist'] },
+      browser: 'chrome',
       files: ['./dist/*'],
       notify: false
     }),
